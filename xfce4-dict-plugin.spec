@@ -1,5 +1,5 @@
 Summary:	A dict plugin for Xfce panel
-Summary(pl.UTF-8):	Wtyczka dict dla panelu Xfce
+Summary(pl):	Wtyczka dict dla panelu Xfce
 Name:		xfce4-dict-plugin
 Version:	0.2.1
 Release:	1
@@ -26,7 +26,7 @@ search for the translation or explanation of a word. You can also
 choose a dictionary offered by the server to improve your search
 results.
 
-%description -l pl.UTF-8
+%description -l pl
 Za pomoc± tej wtyczki mo¿na odpytaæ serwer s³ownika (zgodny z RFC
 2229) w celu wyszukania t³umaczenia lub wyja¶nienia s³owa. Mo¿na tak¿e
 wybraæ s³ownik oferowany przez serwer w celu poprawienia wyników.
