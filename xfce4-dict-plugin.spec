@@ -10,7 +10,7 @@ Source0:	http://goodies.xfce.org/releases/xfce4-dict-plugin/%{name}-%{version}.t
 URL:		http://goodies.xfce.org/projects/panel-plugins/xfce4-dict-plugin
 BuildRequires:	autoconf >= 2.50
 BuildRequires:	automake
-BuildRequires:	intltool >= 0.35.5
+BuildRequires:	intltool >= 0.35.0
 BuildRequires:	libtool
 BuildRequires:	rpmbuild(macros) >= 1.311
 BuildRequires:	xfce4-dev-tools >= 4.4.0
@@ -27,9 +27,9 @@ choose a dictionary offered by the server to improve your search
 results.
 
 %description -l pl.UTF-8
-Za pomocƒÖ tej wtyczki mo≈ºna odpytaƒá serwer s≈Çownika (zgodny z RFC
-2229) w celu wyszukania t≈Çumaczenia lub wyja≈õnienia s≈Çowa. Mo≈ºna tak≈ºe
-wybraƒá s≈Çownik oferowany przez serwer w celu poprawienia wynik√≥w.
+Za pomoc± tej wtyczki moøna odpytaÊ serwer s≥ownika (zgodny z RFC
+2229) w celu wyszukania t≥umaczenia lub wyja∂nienia s≥owa. Moøna takøe
+wybraÊ s≥ownik oferowany przez serwer w celu poprawienia wynikÛw.
 
 %prep
 %setup -q
